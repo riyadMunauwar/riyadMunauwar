@@ -8,7 +8,7 @@ I'm a framework and language-independent developer who believes in continuous le
 - 🏢 Currently working at **Ebn Host LTD**
 - 👥 Dual role as **Server Administrator** and **Full Stack Developer**
 - 🌍 Based in Mymensingh, Bangladesh
-- ⌚ Time Zone: UTC -12:00
+- ⌚ Time Zone: UTC +6:00
 
 ### 🛠️ Notable Projects
 
