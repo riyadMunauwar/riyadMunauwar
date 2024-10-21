@@ -61,16 +61,15 @@ const skills = {
 
 ### 📫 Connect With Me
 - GitHub: [@riyadMunauwar](https://github.com/riyadMunauwar)
+- LinkedIn: 
+- Twitter:
+- Website: www.riyadmunauwar.com
+- Email: hello@riyadmunauwar@gmail.com
 - Location: Mymensingh, Bangladesh
 - Company: [Ebn Host LTD](https://ebnhost.com)
 
 ### 🌟 Fun Fact
 When I'm coding, my body gets tired but my mind stays fresh - that's how I know I'm truly passionate about what I do!
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riyadMunauwar&show_icons=true&theme=radical" alt="Riyad's GitHub stats"/>
-</p>
 
 ### 🤝 Open to Collaboration
 I'm always interested in working on innovative projects and contributing to open-source initiatives. If you have an interesting project or want to collaborate, feel free to reach out!
