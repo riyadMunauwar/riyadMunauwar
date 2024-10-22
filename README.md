@@ -52,6 +52,12 @@ This quote defines my approach to development. I believe in:
 const skills = {
     frontend: ['JavaScript', 'HTML', 'CSS'],
     backend: ['PHP', 'Node.js'],
+    framework: [
+      fronted: ['react', 'vue', 'solidjs'],
+      backend: ['Laravel', 'Symfony', 'NestJs', 'ExpressJs', 'Fastify', 'Koa', 'Slim Php'],
+      hybrid: ['Nextjs', 'Remix', 'Filament'],
+    ],
+    CMS: ['Wordpress', 'Strapi'],
     database: {
         SQL: ['SQLite', 'MySQL', 'PostgreSQL', 'Oracle Database'],
         NoSQL: ['MongoDB', 'Cassandra'],
@@ -60,29 +66,25 @@ const skills = {
     devOps: [
         'Linux',
         'Server Administration',
-        'Jenkins',
+        'Docker',
         'Kubernetes',
         'Terraform',
         'Ansible',
-        'AWS/Azure/GCP',
         'CI/CD Pipelines',
-        'Prometheus',
-        'Grafana',
-        'ELK Stack',
-        'Nginx/Apache'
+        'Nginx/Apache/LiteSpeed/Caddy'
     ],
     tools: [
         'Git',
-        'Docker',
+        'Jenkins',
         'Jira',
-        'Confluence',
-        'SonarQube',
         'Postman',
         'Maven/Gradle',
-        'npm/yarn',
+        'npm/yarn/pnpm/composer',
         'Visual Studio Code',
+        'Php Storm'
         'GitLab/GitHub'
     ],
+    Cloud: ['AWS', 'Azure', 'GCP', ''],
     architectures: [
         'MVC',
         'Microservices',
