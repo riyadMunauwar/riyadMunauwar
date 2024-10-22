@@ -52,10 +52,75 @@ This quote defines my approach to development. I believe in:
 const skills = {
     frontend: ['JavaScript', 'HTML', 'CSS'],
     backend: ['PHP', 'Node.js'],
-    database: ['MySQL', 'MongoDB'],
-    devOps: ['Linux', 'Server Administration'],
-    tools: ['Git', 'Docker'],
-    architectures: ['MVC', 'Microservices']
+    database: {
+        SQL: ['SQLite', 'MySQL', 'PostgreSQL', 'Oracle Database'],
+        NoSQL: ['MongoDB', 'Cassandra'],
+        InMemory: ['Redis', 'Memcached', 'Apache Ignite']
+    },
+    devOps: [
+        'Linux',
+        'Server Administration',
+        'Jenkins',
+        'Kubernetes',
+        'Terraform',
+        'Ansible',
+        'AWS/Azure/GCP',
+        'CI/CD Pipelines',
+        'Prometheus',
+        'Grafana',
+        'ELK Stack',
+        'Nginx/Apache'
+    ],
+    tools: [
+        'Git',
+        'Docker',
+        'Jira',
+        'Confluence',
+        'SonarQube',
+        'Postman',
+        'Maven/Gradle',
+        'npm/yarn',
+        'Visual Studio Code',
+        'GitLab/GitHub'
+    ],
+    architectures: [
+        'MVC',
+        'Microservices',
+        'Event-Driven',
+        'Serverless',
+        'SOA',
+        'Layered Architecture',
+        'Domain-Driven Design (DDD)',
+        'CQRS',
+        'REST',
+        'GraphQL'
+    ],
+    designPatterns: {
+        creational: [
+            'Singleton',
+            'Factory Method',
+            'Abstract Factory',
+            'Builder',
+            'Prototype'
+        ],
+        structural: [
+            'Adapter',
+            'Bridge',
+            'Composite',
+            'Decorator',
+            'Facade',
+            'Proxy'
+        ],
+        behavioral: [
+            'Observer',
+            'Strategy',
+            'Command',
+            'State',
+            'Template Method',
+            'Iterator',
+            'Mediator'
+        ]
+    }
 };
 ```
 
