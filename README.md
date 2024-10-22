@@ -53,7 +53,7 @@ const skills = {
     frontend: ['JavaScript', 'HTML', 'CSS'],
     backend: ['PHP', 'Node.js'],
     framework: [
-      fronted: ['react', 'vue', 'solidjs'],
+      frontend: ['react', 'vue', 'solidjs'],
       backend: ['Laravel', 'Symfony', 'NestJs', 'ExpressJs', 'Fastify', 'Koa', 'Slim Php'],
       hybrid: ['Nextjs', 'Remix', 'Filament'],
     ],
@@ -84,7 +84,7 @@ const skills = {
         'Php Storm'
         'GitLab/GitHub'
     ],
-    Cloud: ['AWS', 'Azure', 'GCP', ''],
+    Cloud: ['AWS', 'Azure', 'GCP', 'Digital Ocean', 'Linode', 'Contaboo', 'OVH'],
     architectures: [
         'MVC',
         'Microservices',
