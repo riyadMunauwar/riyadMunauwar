@@ -78,7 +78,6 @@ const skills = {
         'Jenkins',
         'Jira',
         'Postman',
-        'Maven/Gradle',
         'npm/yarn/pnpm/composer',
         'Visual Studio Code',
         'Php Storm'
