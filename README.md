@@ -53,15 +53,15 @@ const skills = {
     frontend: ['JavaScript', 'HTML', 'CSS'],
     backend: ['PHP', 'Node.js'],
     framework: [
-      frontend: ['react', 'vue', 'solidjs'],
-      backend: ['Laravel', 'Symfony', 'NestJs', 'ExpressJs', 'Fastify', 'Koa', 'Slim Php'],
-      hybrid: ['Nextjs', 'Remix', 'Filament'],
+      frontend: ['react', 'vue'],
+      backend: ['Laravel', 'Symfony', 'ExpressJs', 'Slim Php'],
+      hybrid: ['Nextjs', 'Filament'],
     ],
     CMS: ['Wordpress', 'Strapi'],
     database: {
-        SQL: ['SQLite', 'MySQL', 'PostgreSQL', 'Oracle Database'],
-        NoSQL: ['MongoDB', 'Cassandra'],
-        InMemory: ['Redis', 'Memcached', 'Apache Ignite']
+        SQL: ['SQLite', 'MySQL', 'PostgreSQL'],
+        NoSQL: ['MongoDB'],
+        InMemory: ['Redis', 'Memcached']
     },
     devOps: [
         'Linux',
@@ -75,15 +75,12 @@ const skills = {
     ],
     tools: [
         'Git',
-        'Jenkins',
-        'Jira',
         'Postman',
         'npm/yarn/pnpm/composer',
         'Visual Studio Code',
-        'Php Storm'
         'GitLab/GitHub'
     ],
-    Cloud: ['AWS', 'Azure', 'GCP', 'Digital Ocean', 'Linode', 'Contaboo', 'OVH'],
+    Cloud: ['AWS', 'Digital Ocean', 'Linode', 'Contaboo', 'OVH'],
     architectures: [
         'MVC',
         'Microservices',
