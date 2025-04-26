@@ -68,7 +68,6 @@ const skills = {
         'Server Administration',
         'Docker',
         'Kubernetes',
-        'Terraform',
         'Ansible',
         'CI/CD Pipelines',
         'Nginx/Apache/LiteSpeed/Caddy'
